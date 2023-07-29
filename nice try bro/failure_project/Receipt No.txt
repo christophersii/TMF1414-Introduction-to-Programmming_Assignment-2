@@ -1,0 +1,98 @@
+-----------------------------------------------
+Type of Fuel   : Steam ChicCash Payment
+Payment Method : Cash Payment
+Base Price     : RM 8.50
+Fuel Price     : RM 8.70 (+ Oil Rate RM 0.20)
+Payment        : RM 100.00
+Litres         : 11.49 litres
+-----------------------------------------------
+Website        : www.cyberoil.com
+Facebook       : www.facebook.com/cyberoil
+Twitter        : www.twitter.com/cyberoil
+Intstagram     : www.instagram/com/cyberoil
+-----------------------------------------------
+
+-----------------------------------------------
+Type of Fuel   : Roasted ChAmerican Express
+Payment Method : American Express
+Base Price     : RM 8.50
+Fuel Price     : RM 8.70 (+ Oil Rate RM 0.20)
+Payment        : RM 200.00
+Litres         : 22.99 litres
+-----------------------------------------------
+Website        : www.cyberoil.com
+Facebook       : www.facebook.com/cyberoil
+Twitter        : www.twitter.com/cyberoil
+Intstagram     : www.instagram/com/cyberoil
+-----------------------------------------------
+
+-----------------------------------------------
+Type of Fuel   : Steam ChicAmerican Express
+Payment Method : American Express
+Base Price     : RM 8.50
+Fuel Price     : RM 8.70 (+ Oil Rate RM 0.20)
+Payment        : RM 4.00
+Litres         : 0.46 litres
+-----------------------------------------------
+Website        : www.cyberoil.com
+Facebook       : www.facebook.com/cyberoil
+Twitter        : www.twitter.com/cyberoil
+Intstagram     : www.instagram/com/cyberoil
+-----------------------------------------------
+
+-----------------------------------------------
+Type of Fuel   : Steam ChicMaster Card
+Payment Method : Master Card
+Base Price     : RM 8.50
+Fuel Price     : RM 8.70 (+ Oil Rate RM 0.20)
+Payment        : RM 1012499136.00
+Litres         : 116379216.00 litres
+-----------------------------------------------
+Website        : www.cyberoil.com
+Facebook       : www.facebook.com/cyberoil
+Twitter        : www.twitter.com/cyberoil
+Intstagram     : www.instagram/com/cyberoil
+-----------------------------------------------
+
+-----------------------------------------------
+Type of Fuel   : Steam Chicken Rice
+Payment Method : American Express
+Base Price     : RM 8.50
+Fuel Price     : RM 8.70 (+ Oil Rate RM 0.20)
+Payment        : RM 10.00
+Litres         : 1.15 litres
+-----------------------------------------------
+Website        : www.cyberoil.com
+Facebook       : www.facebook.com/cyberoil
+Twitter        : www.twitter.com/cyberoil
+Intstagram     : www.instagram/com/cyberoil
+-----------------------------------------------
+
+-----------------------------------------------
+Type of Fuel   : Steam Chicken Rice
+Payment Method : American Express
+Base Price     : RM 8.50
+Fuel Price     : RM 8.70 (+ Oil Rate RM 0.20)
+Payment        : RM 100.00
+Litres         : 11.49 litres
+-----------------------------------------------
+Website        : www.cyberoil.com
+Facebook       : www.facebook.com/cyberoil
+Twitter        : www.twitter.com/cyberoil
+Intstagram     : www.instagram/com/cyberoil
+-----------------------------------------------
+
+-----------------------------------------------
+Type of Fuel   : Steam Chicken Rice
+Payment Method : Master Card
+Base Price     : RM 8.50
+Fuel Price     : RM 8.70 (+ Oil Rate RM 0.20)
+Payment        : RM 40.00
+Litres         : 4.60 litres
+-----------------------------------------------
+Website        : www.cyberoil.com
+Facebook       : www.facebook.com/cyberoil
+Twitter        : www.twitter.com/cyberoil
+Intstagram     : www.instagram/com/cyberoil
+-----------------------------------------------
+

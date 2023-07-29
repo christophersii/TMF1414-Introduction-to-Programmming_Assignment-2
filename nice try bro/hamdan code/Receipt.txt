@@ -1,0 +1,11 @@
+						      Extra
+___________________________________________________________________________________________
+Receipt No.	 Chicken Rice		 Type	  Liver	Gizzard	   Egg		 Amount(RM)	
+
+1		Steam Chicken Rice 	Special    0	   2	    0		  RM 12.40
+		Steam Chicken Rice 	Regular    2	   0	    0		  RM 10.50
+
+2		Roasted Chicken Rice 	Special    0	   2	    0		  RM 12.40
+		Roasted Chicken Rice 	Special    0	   2	    0		  RM 12.40
+
+									   Total: RM 47.70
